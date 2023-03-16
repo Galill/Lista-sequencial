@@ -18,4 +18,3 @@ public interface Lista {
     public int remover(int pos);
 
 }
-
